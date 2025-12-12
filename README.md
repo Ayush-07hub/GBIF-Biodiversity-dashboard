@@ -1,3 +1,5 @@
+## Live demo: https://gbif-biodiversity-dashboard.streamlit.app/
+
 # Mapping Global Biodiversity
 ### Patterns, Trends, and Insights from GBIF Data
 
